@@ -4,7 +4,7 @@ You can also run the code on Google Colab
 
 [Grover's algorithm](https://colab.research.google.com/drive/1Yha0nu_ZSJnb30inVMdFiBt3CKsBWth7?usp=sharing)
 
-# Quantum Computing at CERN Summer Student Program
+# Quantum Computing at CERN 
 
 This repository contains code and resources related to quantum computing exercises and experiments conducted during the CERN Summer Student Program.
 
